@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Daily Standup",
+    "description": "Team sync meeting to discuss progress and blockers",
+    "date": "2024-01-15",
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "color": "#fbbf24"
+  },
+  {
+    "id": "2",
+    "title": "Team Meeting",
+    "description": "Weekly team meeting to review goals and priorities",
+    "date": "2024-01-15",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "color": "#3b82f6"
+  },
+  {
+    "id": "3",
+    "title": "Client Presentation",
+    "description": "Present quarterly results to key stakeholders",
+    "date": "2024-01-18",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "color": "#10b981"
+  },
+  {
+    "id": "4",
+    "title": "Lunch with Team",
+    "description": "Team bonding lunch at the new restaurant",
+    "date": "2024-01-20",
+    "startTime": "12:00",
+    "endTime": "13:00",
+    "color": "#ef4444"
+  },
+  {
+    "id": "5",
+    "title": "Code Review",
+    "description": "Review pull requests and provide feedback",
+    "date": "2024-01-22",
+    "startTime": "15:00",
+    "endTime": "16:00",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": "6",
+    "title": "Sprint Planning",
+    "description": "Plan tasks and estimate for the next sprint",
+    "date": "2024-01-25",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "color": "#f97316"
+  },
+  {
+    "id": "7",
+    "title": "Workshop Session",
+    "description": "Technical workshop on new framework features",
+    "date": "2024-01-15",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "color": "#06b6d4"
+  },
+  {
+    "id": "8",
+    "title": "One-on-One",
+    "description": "Monthly one-on-one with manager",
+    "date": "2024-01-18",
+    "startTime": "11:00",
+    "endTime": "11:30",
+    "color": "#ec4899"
+  }
+]
